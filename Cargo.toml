@@ -1,0 +1,12 @@
+[package]
+name = "discord_rs"
+version = "0.1.0"
+authors = ["Logan Saso <logan.saso2016@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+hyper = "^0.12"
+serde = "^1.0"
+serde_json = "^1.0"
+serde_derive = "^1.0"
+lazy_static = "^1.0"
